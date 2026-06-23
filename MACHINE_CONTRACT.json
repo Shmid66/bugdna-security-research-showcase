@@ -1,0 +1,51 @@
+{
+  "claim_boundary": {
+    "autonomous_audit_claimed": false,
+    "customer_validation_claimed": false,
+    "external_feedback_received": false,
+    "full_source_files_exported": false,
+    "independent_discovery_claimed": false,
+    "legal_eligibility_independently_verified": false,
+    "paid_pilot_claimed": false,
+    "perfect_recall_claimed": false,
+    "real_world_accuracy_claimed": false,
+    "time_saved_claimed": false
+  },
+  "evidence": {
+    "entry_count": 8,
+    "entry_ids": [
+      "architecture-v218",
+      "batch-hardening-v214",
+      "calibration-v213",
+      "foundation-v210f",
+      "fresh-holdout-v217",
+      "historical-v212",
+      "product-cli-v218",
+      "public-demo-v211"
+    ],
+    "portfolio_spec_sha256": "cded028acfbd33dc9655326b7f88206e42abbb282ce9a220596195de21cae217",
+    "publication_spec_sha256": "fd88cd1f4aa47ea891f7ef6c1cc103c56404cbe4f5f7ec2abcb5ea825eb3f4cf"
+  },
+  "network_used": false,
+  "project": {
+    "name": "BugDNA | Crypto Vulnerability Intelligence Engine",
+    "repository_name": "bugdna-security-research-showcase",
+    "version": "v2.2.0"
+  },
+  "publication": {
+    "automatic_publish": false,
+    "human_approval_required": true,
+    "license_status": "not-selected",
+    "status": "READY_FOR_HUMAN_REVIEW"
+  },
+  "schema_version": 1,
+  "visibility": {
+    "automatic_publish": false,
+    "detector_source_included": false,
+    "human_approval_required": true,
+    "implementation_source_included": false,
+    "personal_data_included": false,
+    "secrets_included": false,
+    "target_source_included": false
+  }
+}
